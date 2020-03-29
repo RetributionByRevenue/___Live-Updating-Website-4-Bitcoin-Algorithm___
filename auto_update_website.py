@@ -1,37 +1,3 @@
-password='!Duck12345'
-username='maruffolo'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 top_html='''
     <style>
 /*  https://codepen.io/team/css-tricks/pen/wXgJww?editors=1100
@@ -218,7 +184,7 @@ x=x.replace("|","")
 x=x.replace("-","")
 final=top_html+x+bot_html+order_state+end_html
 print("done")
-print(final, file=open("/home/q/web/web.html", "w"))
+print(final, file=open("/home/q/web/web.html", "w")) //change your file directory 
 print(final)
 import paramiko
 from scp import SCPClient
