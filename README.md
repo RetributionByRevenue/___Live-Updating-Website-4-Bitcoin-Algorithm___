@@ -2,7 +2,7 @@
 
 The purpose of this github is to provide a preconfigured trading ready python environment to all of those whom wish to explore and learn the exciting domains of cryptocurrency and quantitative finance.  This very simple trading bot places long and short orders on eth/usd. 
 
-![Output Result](https://github.com/RetributionByRevenue/ETH-USD-Bitmex-Trading-Bot/blob/master/demonstration.gif?raw=true?)
+![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/visual_demo.gif)
 
 What is this?
 I anticipate many viewers of this page to be complete scrubs and incompetent algo traders, so i took the liberty to configure a portable and containerized python environment making it so new people can instantly compile and execute my included programs without issues. Technically speaking, it would be too difficult for python beginners to install such things as TA-LIB and Pandas Data-frame, so this should be all new python users definitive python environment otherwise. 
