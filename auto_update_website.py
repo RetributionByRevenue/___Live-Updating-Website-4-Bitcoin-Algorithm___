@@ -1,8 +1,6 @@
 try:
     import time
     time.sleep(10)
-    password='!Duck12345'
-    username='maruffolo'
     
     top_html='''
         <style>
@@ -216,7 +214,7 @@ try:
         client.connect(server, port, user, password)
         return client
     
-    ssh = createSSHClient('matrix.senecacollege.ca', '22', username, password)
+    ssh = createSSHClient('matrix.senecacollege.ca', '22', 'username', 'password')
     scp = SCPClient(ssh.get_transport())
     
     scp.put(path1+'/web.html', recursive=True, remote_path='~/public_html/eth.html')
