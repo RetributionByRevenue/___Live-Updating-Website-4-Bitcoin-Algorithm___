@@ -1,11 +1,10 @@
-# ETH-USD-Bitmex-Trading-Bot
+# ___Live-Updating-Website-4-Bitcoin-Algorithm___
 
-The purpose of this github is to provide a preconfigured trading ready python environment to all of those whom wish to explore and learn the exciting domains of cryptocurrency and quantitative finance.  This very simple trading bot places long and short orders on eth/usd. 
+The purpose of this github is to provide an example trading algorithm written in python and the console output contents of the trading algortithm displayed in a live updating live updating website.
+
+Below of the result of the project:
 
 ![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/visual_demo.gif)
-
-What is this?
-I anticipate many viewers of this page to be complete scrubs and incompetent algo traders, so i took the liberty to configure a portable and containerized python environment making it so new people can instantly compile and execute my included programs without issues. Technically speaking, it would be too difficult for python beginners to install such things as TA-LIB and Pandas Data-frame, so this should be all new python users definitive python environment otherwise. 
 
 How does it work?
 Just open spyder.exe and load bitmex_tradingbot.py. (Yes that's all you need to do.)  Due to the nature of Winpython being portable and containerized (easy for me to share), there is no need to install anything.  All you need to do is download and extract the python trading environment from the download link provided. 
