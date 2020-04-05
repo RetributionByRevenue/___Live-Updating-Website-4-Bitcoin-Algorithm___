@@ -10,13 +10,14 @@ How does it work?
 A bash script runs 2 programs in a while true loop.
 ![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/small_0.png)
 
-1) Program 1: 
+Program 1: 
 ![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/small_1.png)
 
-2) Program 2: 
+Program 2: 
 ![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/small_2.png)
 
-Download Link: https://mega.nz/#!LxMTSC4S!x4pZDwHKAx8Y84qv26GEfqZ6RlgWMAtNHYMKwflkbLQ
+Bash Script:
+![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/small_3.png)
 
 Click image below to watch Youtube video tutorial:
 [![Link to youtube video](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/Thumbnail.png)](https://www.youtube.com/watch?v=cDTZwG3nqco&t=478s)
