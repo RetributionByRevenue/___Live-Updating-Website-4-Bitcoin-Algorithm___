@@ -7,9 +7,6 @@ Below of the result of the project:
   <img src="https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/visual_demo.gif">
 </p>
 
-![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/visual_demo.gif)
-
-
 How does it work?
 A bash script runs 2 programs in a while true loop.
 ![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/small_0.png)
@@ -24,8 +21,9 @@ Bash Script:
 ![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/small_3.png)
 
 Click image below to watch Youtube video tutorial:
+
 <p align="center">
-[![Link to youtube video](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/Thumbnail.png)](https://www.youtube.com/watch?v=cDTZwG3nqco&t=478s)
+  <img src="https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/Thumbnail.png">
 </p>
 
 Don't need donation. Free and open source software, you are welcome to modify and share. 
