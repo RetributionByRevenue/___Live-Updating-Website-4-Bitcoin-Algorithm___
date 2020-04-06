@@ -3,9 +3,12 @@
 The purpose of this github is to provide an example trading algorithm written in python and the console output contents of the trading algortithm displayed in a live updating live updating website.
 
 Below of the result of the project:
-<center>
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/visual_demo.gif">
+</p>
+
 ![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/visual_demo.gif)
-</center>
+
 
 How does it work?
 A bash script runs 2 programs in a while true loop.
