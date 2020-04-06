@@ -4,7 +4,7 @@ The purpose of this github is to provide an example trading algorithm written in
 
 Below of the result of the project:
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/visual_demo.gif">
+  <img src="https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/visual_demo.gif">
 </p>
 
 ![Output Result](https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/visual_demo.gif)
