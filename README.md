@@ -1,6 +1,6 @@
 # ___Live-Updating-Website-4-Bitcoin-Algorithm___
 
-The purpose of this github is to provide an example trading algorithm written in python and the console output contents of the trading algortithm displayed in a live updating live updating website.
+The purpose of this github is to provide an example trading algorithm written in python and the console output contents of the trading algortithm displayed in a live updating website.
 
 Below of the result of the project:
 <p align="center">
@@ -26,4 +26,4 @@ Click image below to watch Youtube video tutorial:
   <img src="https://raw.githubusercontent.com/RetributionByRevenue/___Live-Updating-Website-4-Bitcoin-Algorithm___/master/Thumbnail.png">
 </p>
 
-Don't need donation. Free and open source software, you are welcome to modify and share. 
+Free and open source software, you are welcome to modify and share. 
